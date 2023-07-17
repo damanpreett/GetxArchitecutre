@@ -1,0 +1,42 @@
+class StringUtils {
+
+  static const   otpVerification =   'OTP Verification';
+  static const   enterOpt =    'Enter OTP';
+  static const   resend =    'Resend';
+  static const   submit =    "Submit";
+  static const   profileSetup =    'Profile Setup';
+  static const   setYourProfileSetup =    'Set up your profile, You are just few steps away';
+  static const   firstName =    'First Name';
+  static const   lastName =    'Last Name';
+  static const   gender =    'Gender';
+  static const   email =    'Email';
+  static const   state =    'State';
+  static const   city =    'City';
+  static const   pinCode =    'Pin code';
+  static const   landMark =    'LandMark';
+  static const   address =    'Address';
+  static const   addNewCard =    'Add New Card';
+  static const   saveDetails =    'Save Details';
+  static const   accountHolderName =    'Account Holder Name';
+  static const   cardNumber =    'Card Number';
+  static const   number =    'Number';
+  static const   name =    'Name';
+  static const   expireDate =    'Expire Date';
+  static const   date =    'Date';
+  static const   tempNum =    '699';
+  static const   savedCards =    'Saved Cards';
+  static const   cvv =    'CVV';
+  static const   edit =    'Edit';
+  static const   delete =    'Delete';
+  static const   uploadImage =    'Upload Images';
+  static const   addImage =    'Add Image';
+  static const   chooseYourSpecialty =    'Choose your Specialty';
+  static const   chooseSpecialty =    'Choose Specialty';
+  static const   chooseSubCategory =    'Choose Sub-category';
+  static const   specialty =    'Specialty';
+  static const   subSCategory =    'Sub-category';
+  static const   subCategory =    'Sub Category';
+  static const   addSubCategory =    'Add Sub Categories';
+  static const   searchLogo =    'Search Logo';
+  static const   allCategory =     'All Categories';
+}
